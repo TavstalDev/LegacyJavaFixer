@@ -20,6 +20,7 @@ apply plugin: 'net.minecraftforge.gradleutils'
 java.toolchain.languageVersion = JavaLanguageVersion.of(7)
 
 version = gradleutils.tagOffsetVersion
+project.version = '2.0.0'
 group = 'net.minecraftforge'
 archivesBaseName = 'legacyjavafixer'
 
